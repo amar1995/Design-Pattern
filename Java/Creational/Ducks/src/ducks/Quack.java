@@ -1,4 +1,4 @@
-
+package ducks;
 public class Quack implements IQuackBehaviour {
 
 	@Override

@@ -1,4 +1,4 @@
-
+package ducks;
 public class NoFly implements IFlyBehaviour {
 	@Override
 	public void Fly(){

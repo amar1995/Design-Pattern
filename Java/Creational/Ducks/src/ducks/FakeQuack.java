@@ -1,4 +1,4 @@
-
+package ducks;
 public class FakeQuack implements IQuackBehaviour {
 
 	@Override

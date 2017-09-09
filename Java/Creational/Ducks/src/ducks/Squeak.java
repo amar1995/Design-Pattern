@@ -1,4 +1,4 @@
-
+package ducks;
 public class Squeak implements IQuackBehaviour {
 
 	@Override

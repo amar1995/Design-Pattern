@@ -1,4 +1,4 @@
-
+package ducks;
 public class RubberDuck extends DuckFamily{
 	
 	public RubberDuck() {

@@ -1,4 +1,4 @@
-
+package ducks;
 public abstract class DuckFamily {
 	public IFlyBehaviour FlyBehaviour;
 	public IQuackBehaviour QuackBehaviour;

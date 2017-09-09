@@ -1,4 +1,4 @@
-
+package ducks;
 public class FlyWithWings implements IFlyBehaviour{
 	@Override 
 	public void Fly(){
